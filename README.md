@@ -2,6 +2,20 @@ The goal is to improve stakeholder brain oxygen saturation to aid better governa
 
 Contributions are welcome: must be relevant to Decred, not overly offensive, dates in UTC, both new and retrospective items are accepted.
 
+### sooner than few weeks
+
+> decoy: Is DickRekt considered a term of endearment or criticism of the project?  I'm new here.\
+> sumiflow: the answer is yes\
+> solar: it's context specific\
+> sumiflow: the term "DickRed" came from a bad korean translation on upbit\
+> sumiflow: somehow later it transformed to DickRekt\
+> decoy: ahh thx\
+> davecgh: Yeah, as noted, it came from a bad Korean translation.  As far as the implications behind it, it really depends on who is using the term.  Most people use it as a term of endearment, but there are a few who don't seem to have anything better to do than find something to complain about, just like with everything else.  You'll notice who is who within a few weeks.\
+> mike.rutch: It turned into DickRekt when the price was smashed down to like 0.0025\
+> mike.rutch: Because it was Rekt
+
+2018-04-18 | tags: chat | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1524020948000211)
+
 ### woot
 
 > github: decred/dcrdata was forked to lukebp\
