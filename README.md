@@ -2,6 +2,14 @@ The goal is to improve stakeholder brain oxygen saturation to aid better governa
 
 Contributions are welcome: must be relevant to Decred, not overly offensive, dates in UTC, both new and retrospective items are accepted.
 
+### space cowboys
+
+> Sure, we all know the Bogdanoffs. But do we all know that they're @decredproject space cowboys? (@derose)
+
+Interesting [thread](https://twitter.com/derose/status/986974110113845249).
+
+2018-04-19 | tags: clothes pics
+
 ### sooner than few weeks
 
 > decoy: Is DickRekt considered a term of endearment or criticism of the project?  I'm new here.\
