@@ -2,6 +2,12 @@ The goal is to improve stakeholder brain oxygen saturation to aid better governa
 
 Contributions are welcome: must be relevant to Decred, not overly offensive, dates in UTC, both new and retrospective items are accepted.
 
+### good design
+
+> jz: Wow @DZ's killing it with that block explorer design. If being aroused by dcrdata is wrong I don't wanna be right.
+
+2018-04-24 | tags: design | source: [#dcrdata](https://decred.slack.com/archives/C9FVB2ZU6/p1524506961000076)
+
 ### space cowboys
 
 > Sure, we all know the Bogdanoffs. But do we all know that they're @decredproject space cowboys? (@derose)
