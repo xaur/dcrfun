@@ -2,6 +2,24 @@ The goal is to improve stakeholder brain oxygen saturation to aid better governa
 
 Contributions are welcome: must be relevant to Decred, not overly offensive, dates in UTC, both new and retrospective items are accepted.
 
+### floats
+
+> moo31337: no floats\
+> moo31337: death to floats\
+> moo31337: think of all the silicon that could be saved by not having floats in die
+
+2018-04-30 | tags: chat dev | source: [#politeia](https://decred.slack.com/archives/C88HEA7DK/p1525099594000711)
+
+### thank you solar
+
+> solar: Decred looks strong. You're welcome ( I sold some at 0.0073)\
+> stabbarn: @solar Thank you. Very kind of you\
+> hypernoob: Please sell more\
+> solar: I'm getting bitter that I sold 2 days ago. Thought we were going back to 0.006. Someone had to do it.\
+> geostone: Hey @cryptocasca it's safe to come back. Turns out it was solar we needed to sell the whole time.... lmao
+
+2018-04-24 | tags: chat trading | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1524574137000299)
+
 ### good design
 
 > jz: Wow @DZ's killing it with that block explorer design. If being aroused by dcrdata is wrong I don't wanna be right.
@@ -28,7 +46,7 @@ Interesting [thread](https://twitter.com/derose/status/986974110113845249).
 > mike.rutch: It turned into DickRekt when the price was smashed down to like 0.0025\
 > mike.rutch: Because it was Rekt
 
-2018-04-18 | tags: chat | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1524020948000211)
+2018-04-18 | tags: chat trading | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1524020948000211)
 
 ### woot
 
