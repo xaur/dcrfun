@@ -2,7 +2,16 @@ The goal is to improve stakeholder brain oxygen saturation to aid better governa
 
 Contributions are welcome: must be relevant to Decred, not overly offensive, dates in UTC, both new and retrospective items are accepted.
 
-### floats
+### skinsuit
+
+> michae2xl: Awesome! First page of Upbit today. They just added pair DCR/KRW\
+> Exitus: why no announcement on twitter\
+> davecgh: Probably because it happened in the middle of the night and they just haven't got the tweet out yet.\
+> solar: Ingsoc is up on the mothership getting his skinsuit cleaned
+
+2018-05-04 | tags: people | source: [#general](https://decred.slack.com/archives/C0NRMDVMJ/p1525435978000087)
+
+### no floats
 
 > moo31337: no floats\
 > moo31337: death to floats\
