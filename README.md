@@ -4,41 +4,41 @@ Contributions are welcome: must be relevant to Decred, not overly offensive, dat
 
 ### thanks dcr-b
 
-> Coryvmcs1: thanks dcr-b\
-> Coryvmcs1: trying to help secure the network\
-> jrick: you're welcome\
-> Haon: DCR-b is the bridge\
-> jrick: ssshhhh\
-> Coryvmcs1: LOL\
-> Coryvmcs1: wow I need my coffee\
-> Haon: I was going to make a schizophrenia joke, but that's getting old\
+> Coryvmcs1: thanks dcr-b  
+> Coryvmcs1: trying to help secure the network  
+> jrick: you're welcome  
+> Haon: DCR-b is the bridge  
+> jrick: ssshhhh  
+> Coryvmcs1: LOL  
+> Coryvmcs1: wow I need my coffee  
+> Haon: I was going to make a schizophrenia joke, but that's getting old  
 > Haon: No worries, you're definitely not the first person to thank DCR-b
 
 2018-05-04 | tags: chat | source: [#general](https://decred.slack.com/archives/C0NRMDVMJ/p1525450137000487)
 
 ### skinsuit
 
-> michae2xl: Awesome! First page of Upbit today. They just added pair DCR/KRW\
-> Exitus: why no announcement on twitter\
-> davecgh: Probably because it happened in the middle of the night and they just haven't got the tweet out yet.\
+> michae2xl: Awesome! First page of Upbit today. They just added pair DCR/KRW  
+> Exitus: why no announcement on twitter  
+> davecgh: Probably because it happened in the middle of the night and they just haven't got the tweet out yet.  
 > solar: Ingsoc is up on the mothership getting his skinsuit cleaned
 
 2018-05-04 | tags: chat people conspiracy | source: [#general](https://decred.slack.com/archives/C0NRMDVMJ/p1525435978000087)
 
 ### no floats
 
-> moo31337: no floats\
-> moo31337: death to floats\
+> moo31337: no floats  
+> moo31337: death to floats  
 > moo31337: think of all the silicon that could be saved by not having floats in die
 
 2018-04-30 | tags: chat dev | source: [#politeia](https://decred.slack.com/archives/C88HEA7DK/p1525099594000711)
 
 ### thank you solar
 
-> solar: Decred looks strong. You're welcome ( I sold some at 0.0073)\
-> stabbarn: @solar Thank you. Very kind of you\
-> hypernoob: Please sell more\
-> solar: I'm getting bitter that I sold 2 days ago. Thought we were going back to 0.006. Someone had to do it.\
+> solar: Decred looks strong. You're welcome ( I sold some at 0.0073)  
+> stabbarn: @solar Thank you. Very kind of you  
+> hypernoob: Please sell more  
+> solar: I'm getting bitter that I sold 2 days ago. Thought we were going back to 0.006. Someone had to do it.  
 > geostone: Hey @cryptocasca it's safe to come back. Turns out it was solar we needed to sell the whole time.... lmao
 
 2018-04-24 | tags: chat trading | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1524574137000299)
@@ -59,23 +59,23 @@ Interesting [thread](https://twitter.com/derose/status/986974110113845249).
 
 ### sooner than few weeks
 
-> decoy: Is DickRekt considered a term of endearment or criticism of the project?  I'm new here.\
-> sumiflow: the answer is yes\
-> solar: it's context specific\
-> sumiflow: the term "DickRed" came from a bad korean translation on upbit\
-> sumiflow: somehow later it transformed to DickRekt\
-> decoy: ahh thx\
-> davecgh: Yeah, as noted, it came from a bad Korean translation.  As far as the implications behind it, it really depends on who is using the term.  Most people use it as a term of endearment, but there are a few who don't seem to have anything better to do than find something to complain about, just like with everything else.  You'll notice who is who within a few weeks.\
-> mike.rutch: It turned into DickRekt when the price was smashed down to like 0.0025\
+> decoy: Is DickRekt considered a term of endearment or criticism of the project?  I'm new here.  
+> sumiflow: the answer is yes  
+> solar: it's context specific  
+> sumiflow: the term "DickRed" came from a bad korean translation on upbit  
+> sumiflow: somehow later it transformed to DickRekt  
+> decoy: ahh thx  
+> davecgh: Yeah, as noted, it came from a bad Korean translation.  As far as the implications behind it, it really depends on who is using the term.  Most people use it as a term of endearment, but there are a few who don't seem to have anything better to do than find something to complain about, just like with everything else.  You'll notice who is who within a few weeks.  
+> mike.rutch: It turned into DickRekt when the price was smashed down to like 0.0025  
 > mike.rutch: Because it was Rekt
 
 2018-04-18 | tags: chat trading | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1524020948000211)
 
 ### woot
 
-> github: decred/dcrdata was forked to lukebp\
-> chappjc: @lukebp woot!\
-> woot: chappjc!\
+> github: decred/dcrdata was forked to lukebp  
+> chappjc: @lukebp woot!  
+> woot: chappjc!  
 > woot: Sometimes I regret my name choice
 
 2018-04-17 | tags: chat | source: [#dev](https://decred.slack.com/archives/C3PV890MD/p1523927638000132)
