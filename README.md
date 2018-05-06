@@ -2,6 +2,20 @@ The goal is to improve stakeholder brain oxygen saturation to aid better governa
 
 Contributions are welcome: must be relevant to Decred, not overly offensive, dates in UTC, both new and retrospective items are accepted.
 
+### thanks dcr-b
+
+> Coryvmcs1: thanks dcr-b\
+> Coryvmcs1: trying to help secure the network\
+> jrick: you're welcome\
+> Haon: DCR-b is the bridge\
+> jrick: ssshhhh\
+> Coryvmcs1: LOL\
+> Coryvmcs1: wow I need my coffee\
+> Haon: I was going to make a schizophrenia joke, but that's getting old\
+> Haon: No worries, you're definitely not the first person to thank DCR-b
+
+2018-05-04 | tags: chat | source: [#general](https://decred.slack.com/archives/C0NRMDVMJ/p1525450137000487)
+
 ### skinsuit
 
 > michae2xl: Awesome! First page of Upbit today. They just added pair DCR/KRW\
@@ -9,7 +23,7 @@ Contributions are welcome: must be relevant to Decred, not overly offensive, dat
 > davecgh: Probably because it happened in the middle of the night and they just haven't got the tweet out yet.\
 > solar: Ingsoc is up on the mothership getting his skinsuit cleaned
 
-2018-05-04 | tags: people | source: [#general](https://decred.slack.com/archives/C0NRMDVMJ/p1525435978000087)
+2018-05-04 | tags: chat people conspiracy | source: [#general](https://decred.slack.com/archives/C0NRMDVMJ/p1525435978000087)
 
 ### no floats
 
