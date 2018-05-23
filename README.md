@@ -2,6 +2,77 @@ The goal is to improve stakeholder brain oxygen saturation to aid better governa
 
 Contributions are welcome: must be relevant to Decred, not overly offensive, dates in UTC, both new and retrospective items are accepted.
 
+### quantum resistance resistance
+
+> spiritlcx: A project called Hcash forked dcr and implement a quantum resistance algorithm. Any plan to merge that part to dcr in the future?  
+> jy-p: i'm a time traveler and am here to form the quantum resistance resistance group
+
+2018-05-20 | tags: chat Hcash | source: [#pow-mining](https://decred.slack.com/archives/C3P6R055Z/p1526821582000062)
+
+### stakey
+
+> ingsoc: "In this time the most precious substance in the universe is the memes melange. The memes extend life. The memes expand consciousness. The memes are vital to space travel..."  
+> muhfugginmike: Institutional investors love the memes  
+> jz: Yes, they've actually told me that.  
+> muhfugginmike: And whoever has been coming up with the Stakey memes lately has been killing it  
+> muhfugginmike: You da real MVP  
+> snowman: who needs a woman representing our coin, when we have stakey
+
+2018-05-19 | tags: trading chat | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1526680248000358)
+
+### crash that party
+
+> mike.rutch: Oh well looks like the consensus pump is over fellas, I hope you all locked in your 5%  
+> solar: mike's trying in vain to FUD the pump away, he doesn't want to have to clean his place for the party :tokey:  
+> mike.rutch: I wasn't talking about DCR specifically more so the market in general  
+> jazzah: i think you should do a video tour of your place mike, so we can braimstorm decorations  
+> davecgh: I can't wait to crash that party.  I'm going to just wander around complaining the whole time.  It's going to be amazing! :troll:
+
+2018-05-15 | tags: trading chat | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1526427387000167)
+
+### question of the month
+
+> hk3380: what's a decred
+
+2018-05-12 | tags: chat | source: [#general](https://decred.slack.com/archives/C0NRMDVMJ/p1526155829000044)
+
+### positivity
+
+> Haon: Positivity in #trading, now I've seen everything
+
+2018-05-11 | tags: trading | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1526068791000366)
+
+### DCR is very bad
+
+> jazzah: it may just be that "they" discover that DCR is very bad, very bad indeed. First a huge spike off phoney bad market manipulation volume on OOOBTC, then a listing on that awful an dangerous exchange Upbit (Hence why its being raided today). And now in a couple of weeks, the Chinese Minstery is gonna find out that DCR is in fact nothing but a malicious copy of Hshares.
+
+2018-05-11 | tags: Hcash chat | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1526049436000679)
+
+### ensure
+
+> moo31337: @lukebp you need to dep ensure  
+> jy-p: dunno why, but this makes me think about that old ppl nutritional drink, ensure
+
+2018-05-11 | tags: chat | source: [#politeia](https://decred.slack.com/archives/C88HEA7DK/p1526044312000110)
+
+### AI
+
+> snowman: bots run the whole internet  
+> snowman: soon we wont be able to tell the difference between bots and a real person  
+> snowman: did you see the google assistance making phone call reservations? that shit was unreal.  
+> snowman: https://www.youtube.com/watch?v=D5VN56jQMWM (Google Duplex: A.I. Assistant Calls Local Businesses To Make Appointments)  
+> snowman: go to like 1:10  
+> hypernoob: lol is that for autists?
+
+2018-05-09 | tags: chat | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1525829271000275)
+
+### mainnets the new hotness
+
+> solar: Fork airdrops are so 2017, launching a mainnet is the new hotness: https://www.reddit.com/r/CryptoCurrency/comments/8hp8vm/crypto_mainnet_and_testnet_schedules_for_mayjune/  
+> solar: Decred mainnet when?
+
+2018-05-08 | tags: trading | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1525753234000252)
+
 ### thanks dcr-b
 
 > Coryvmcs1: thanks dcr-b  
