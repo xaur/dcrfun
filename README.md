@@ -167,7 +167,7 @@ Received mixed response, followed by a hot discussion of possible Decred merch, 
 
 ### hype driven development
 
-https://medium.com/@ozgurgul/hype-driven-development-2196a8bf73fa
+Relevant more than ever: https://medium.com/@ozgurgul/hype-driven-development-2196a8bf73fa
 
 2018-04-07 | tags: hype | source: [#trading](https://decred.slack.com/archives/C3PBR19L4/p1523136284000024)
 
