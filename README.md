@@ -1,4 +1,4 @@
-The goal is to improve stakeholder brain oxygen saturation to aid better governance decisions.
+Improve stakeholder brain oxygen saturation to aid better governance decisions.
 
 Contributions are welcome: must be relevant to Decred, not overly offensive, dates in UTC, both new and retrospective items are accepted.
 
